@@ -5,7 +5,7 @@
 **Founder:** p4oT09
 
 <!-- Badges (replace p4oT09/SSBD%20Shield after creating your GitHub repo) -->
-<a href="https://github.com/p4oT09/SSBD%20Shield/releases/latest">
+<a href="https://img.shields.io/github/downloads/p4oT09/SSBD-Shield/total?style=for-the-badge">
   <img src="https://img.shields.io/github/v/release/p4oT09/SSBD-Shield?style=for-the-badge" alt="latest release">
 </a>
 <a href="https://github.com/p4oT09/SSBD%20Shield/releases">
