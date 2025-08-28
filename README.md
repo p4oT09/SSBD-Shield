@@ -1,6 +1,6 @@
 <div align="center">
 
-# SSBD Shield
+# SSBD-Shield
 
 **Founder:** p4oT09
 
