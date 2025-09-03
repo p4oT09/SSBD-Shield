@@ -4,15 +4,15 @@
 
 **Founder:** p4oT09
 
-<!-- Badges (replace p4oT09/SSBD%20Shield after creating your GitHub repo) -->
-<a href="https://img.shields.io/github/downloads/p4oT09/SSBD-Shield/total?style=for-the-badge">
-  <img src="https://img.shields.io/github/v/release/p4oT09/SSBD-Shield?style=for-the-badge" alt="latest release">
+<!-- Badges -->
+<a href="https://github.com/p4oT09/SSBD-Shield/releases">
+  <img src="https://img.shields.io/github/v/release/p4oT09/SSBD-Shield?style=for-the-badge" alt="Latest Release">
 </a>
 <a href="https://github.com/p4oT09/SSBD-Shield/releases">
-  <img src="https://img.shields.io/github/downloads/p4oT09/SSBD-Shield/total?style=for-the-badge">
+  <img src="https://img.shields.io/github/downloads/p4oT09/SSBD-Shield/total?style=for-the-badge" alt="Downloads">
 </a>
-<img src="https://img.shields.io/badge/license-Proprietary-informational?style=for-the-badge" alt="license">
-<img src="https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge" alt="platform">
+<img src="https://img.shields.io/badge/license-Proprietary-informational?style=for-the-badge" alt="License">
+<img src="https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge" alt="Platform">
 
 <!-- CTA buttons -->
 <p>
@@ -23,8 +23,6 @@
     <img src="https://img.shields.io/badge/Telegram-Channel-28a8ea?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-
-</div>
 
 ---
 
