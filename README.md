@@ -29,9 +29,6 @@
 ## Overview
 **SSBD Shield** is a next‑generation VPN and network optimization tool for Windows. It focuses on fast, stable connectivity, strong security, and a smooth user experience. Distributed as a portable executable — just download and run.
 
-> ⚠️ **Note:** Replace `p4oT09/SSBD%20Shield` in badge links with your actual GitHub path after you create the private/public repository. Buttons will then work automatically (Downloads/Release).
-
----
 
 ## Features
 - ✈️ **Shocks5 VPN Support** — Fast, stable, and secure proxy-based connections.
