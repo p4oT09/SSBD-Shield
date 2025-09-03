@@ -16,7 +16,7 @@
 
 <!-- CTA buttons -->
 <p>
-  <a href="https://github.com/p4oT09/SSBD%20Shield/releases/latest">
+  <a href="https://github.com/p4oT09/SSBD-Shield/releases/latest">
     <img src="https://img.shields.io/badge/⬇️%20Download-Latest-2ea44f?style=for-the-badge" alt="Download Latest">
   </a>
   <a href="https://t.me/SecretSubjectChannel" target="_blank">
